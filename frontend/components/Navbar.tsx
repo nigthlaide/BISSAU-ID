@@ -16,7 +16,7 @@ export default function Navbar() {
             </div>
             <div>
               <p className="text-2xl font-bold tracking-tight">BISSAU ID</p>
-              <p className="text-xs text-blue-300 -mt-1">e-Gov</p>
+              <p className="text-xs text-blue-300 -mt-1">e-Gov Plataforma de Serviços Públicos</p>
             </div>
           </Link>
 
